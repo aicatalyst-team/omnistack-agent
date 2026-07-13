@@ -1,0 +1,10 @@
+.git
+.github
+LICENSE
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+CHANGELOG.md
+kubernetes/
+poc-plan.md
+node_modules/
+.env*
