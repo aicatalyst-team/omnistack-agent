@@ -1,4 +1,10 @@
-![omnistack-agent](assets/banner.svg)
+> [!WARNING]
+> **This repository is archived.**
+>
+> Archived on 2026-09-08 by the AI Catalyst Platform Team.
+> It is read-only and no longer maintained.
+
+---![omnistack-agent](assets/banner.svg)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) · ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) · ![Platforms](https://img.shields.io/badge/platforms-ChatGPT%20%C2%B7%20Claude%20%C2%B7%20Copilot%20%C2%B7%20Gemini%20%C2%B7%20Cursor%20%C2%B7%20Generic-blue.svg)
 
